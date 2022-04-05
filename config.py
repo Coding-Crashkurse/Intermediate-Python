@@ -5,5 +5,5 @@ class Settings(BaseSettings):
     host: str = "localhost"
     port: str = 6379
     db: int = 0
-    password: str = "test"
-    decode_responses: bool = True
+    password: str = "eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81"
+    decode_responses: bool = False
