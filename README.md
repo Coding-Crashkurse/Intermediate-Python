@@ -8,3 +8,4 @@
 4. Run `python --main.py --help` to get more information
 5. Run `python --main.py predict` to draw rectangles around faces on every image in the images folder
 
+![Alt Text](./assets/gif.gif)
